@@ -117,7 +117,7 @@ tbody{
     }
 
 .blue-bg{
-    background-color: #337ab7;
+    background-color: #0e76a8;
 }    
 .contactheight{
     height:250px;
@@ -150,8 +150,8 @@ box-shadow: 2px 2px #7e88fc;
 
 /*btn-primary*/
 .btn-primary {
-    background-color : #337ab7;
-    border-color     : #337ab7;
+    background-color : #0e76a8;
+    border-color     : #0e76a8;
     box-shadow: 5px 5px 5px 0 rgba(0,0,0,0.05);
     }
 
@@ -327,7 +327,7 @@ Shortcode Content
     }
 
 .m-menu i{
-    color:#337ab7;
+    color:#0e76a8;
 }
     
  .m-menu .navbar-header h2{
@@ -344,7 +344,7 @@ Shortcode Content
     }
 
 .navbar-default .navbar-nav > li > a {
-    color          : #337ab7;
+    color          : #0e76a8;
     font-size      : 15px;
     font-weight    : 400;
     padding        : 10px 15px;
@@ -569,7 +569,7 @@ Shortcode Content
     }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color : #337ab7;
+    background-color : #0e76a8;
     }
 
 .navbar-toggle .icon-bar + .icon-bar {
@@ -776,7 +776,7 @@ Shortcode Content
  .slideside .slidetext{
     text-align: center;
     
-    background-color: #337ab7;
+    background-color: #0e76a8;
     height:92px;
     margin-bottom:10px;
     margin-right: -50px;
@@ -789,7 +789,7 @@ Shortcode Content
     
     text-align: center;
 
-    background-color: #337ab7;
+    background-color: #0e76a8;
     height:93px;
     margin-right: -50px;
     color:#d1d2d3;
@@ -1095,7 +1095,7 @@ box-shadow: 5px 5px 5px 0 rgba(0,0,0,.05); }
 .testimonial {
     padding    : 80px 0px 90px;
     color      : #ffffff;
-    background: #337ab7;
+    background: #0e76a8;
     }
 
 #testimonialSlider .carousel-inner .item blockquote{
@@ -1240,7 +1240,7 @@ box-shadow: 5px 5px 5px 0 rgba(0,0,0,.05); }
  *----------------------------------------------- */
 
 .single-page-title {
-    background-color  : #337ab7 ;
+    background-color  : #0e76a8 ;
     background-size       : cover;
     width                 : 100%;
     background-attachment : fixed;
@@ -1255,7 +1255,7 @@ box-shadow: 5px 5px 5px 0 rgba(0,0,0,.05); }
     left:0;
     right: 0;
     bottom: 0;
-    background: #337ab7;
+    background: #0e76a8;
     }
 
 .single-page-title h2 {
@@ -1656,7 +1656,7 @@ icon-style
  *   Footer
  *---------------------------------------------- */
 .footer {
-    background: #337ab7;
+    background: #0e76a8;
     }
 
 .footer-widget-section{
