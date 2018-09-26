@@ -14,7 +14,7 @@ Global Typography
 h1, h2, h3, h4, h5, h6 {
     margin      : 0 0 15px;
     color       : #303841;
-    
+
     }
 
 h1 {
@@ -118,7 +118,7 @@ tbody{
 
 .blue-bg{
     background-color: #0e76a8;
-}    
+}
 .contactheight{
     height:250px;
 }
@@ -299,24 +299,24 @@ Shortcode Content
 /*Navigation*/
 .navbar{
     background-color: #d9edf7;
-    
+
 }
 
 .navbar-default {
     margin-bottom : 0;
     background-color: #d9edf7;
     color:#ffffff;
-    
+
     }
 
 
 .navbar-brand {
     padding-top    : 0;
     padding-bottom : 0;
-    
+
     }
  .navbar-header .navbar-brand img{
-   
+
     height         : 80px;
     width:80px;
     margin-top: -12px;
@@ -329,7 +329,7 @@ Shortcode Content
 .m-menu i{
     color:#0e76a8;
 }
-    
+
  .m-menu .navbar-header h2{
         color:#4e4e4f;
         font-weight: normal;
@@ -663,7 +663,7 @@ Shortcode Content
 }
 
 .header-top .social-icon li a:hover{
-    opacity: .5; 
+    opacity: .5;
 }
 
 /* Phone, Emial, Get a Quote */
@@ -713,13 +713,13 @@ Shortcode Content
     }
 
     .header-top .top-contact li.get-a-quote a{
-        padding: 8px 15px; 
+        padding: 8px 15px;
     }
 
     .top-contact.pull-right{
         float: none !important;
     }
-    
+
 }
 
 
@@ -764,7 +764,7 @@ Shortcode Content
  .slideside .slidesideht a{
     text-decoration: none;
     color: #f2f2f2;
- }   
+ }
 
 .slideside{
 
@@ -775,7 +775,7 @@ Shortcode Content
 
  .slideside .slidetext{
     text-align: center;
-    
+
     background-color: #0e76a8;
     height:92px;
     margin-bottom:10px;
@@ -786,7 +786,7 @@ Shortcode Content
 
  }
   .slideside .slidetext2{
-    
+
     text-align: center;
 
     background-color: #0e76a8;
@@ -811,7 +811,7 @@ color:#ffffff;
  }
 
  .slideside a{
-    
+
     text-decoration: none;
     color:#d1d2d3;
  }
@@ -833,7 +833,7 @@ color:#ffffff;
     max-height: inherit;
     color:#ffffff;
     padding-left: -15px;
-    
+
  }
 
  .slidetext , .slidetext2{
@@ -938,8 +938,8 @@ box-shadow: 5px 5px 5px 0 rgba(0,0,0,.05); }
     margin-right: 60px;
     box-shadow: 5px 5px 5px 0 rgba(0,0,0,0.05);
 
-    
-}    
+
+}
 
 .section-content-left-icon .left-icon-wraper {
     display: table;
@@ -1035,7 +1035,7 @@ box-shadow: 5px 5px 5px 0 rgba(0,0,0,.05); }
     border: 1px solid #f9f9f9;
     border-radius: 0;
 }
-@media (max-width : 767px) { 
+@media (max-width : 767px) {
     .team-member .thumbnail {
         margin-bottom: 30px;
     }
@@ -1182,7 +1182,7 @@ box-shadow: 5px 5px 5px 0 rgba(0,0,0,.05); }
 
 
 /* --------------------------
- * Client Logo 
+ * Client Logo
  *---------------------------*/
 .client-logo {
     padding: 40px 0;
@@ -1831,4 +1831,4 @@ icon-style
 
  .achievementsimg{
     height:200px;
- }   
+ }
